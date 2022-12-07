@@ -21,7 +21,22 @@ def get_sales_data():
     print("Example 12,23,34,45,56,67\n")
 
     data_str = input("Enter your data here: ")
-    print(f"the data provided is {data_str}")
+    
+    sales_data = data_str.split(",")
+    validate_data(sales_data)
 
+def validate_data(values):
+    """
+    Inside the try, converts all string values into integers.
+    Raises ValueError if string cannot be converted into int,
+    or if there arent exactly 6 values.
+    """
+    try:
+        if len(values) !=6:
+            raise ValueError(
+                f"exactly 6 values required, you provided {len(values)}"
+            )
+    except ValueError as e:
+            print(f"invalid data: {e}, please try again. \n")
 
 get_sales_data()
