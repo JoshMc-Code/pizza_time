@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pizza-time-370715",
+  "private_key_id": "f12c8e06c40ee3abaf455aec7c2eccede1525293",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyUQAC/CTUxXom\nm46H+6BiwXA+k0giXDxrC6GNXPmuejV8NBKbdzF3RxcpibDvSfiNHDK/37tJKAWp\nB+/Z2Tatlz1HOUj/pHtqO8i7YRFR03bPYCHaIkLR4VyiymgvG1Mm1G6g4+SaWn6O\n4tKFWn4RgxLuNj4PyMVVFGAjjucDGPvyWgM3RTlK6T7Fd+l0gMTVWOp+qpOSDCZW\nzMW8DCPwt6iTQsn0WBtNOCmQzzV+0ZJIoPqd+VSifTBMXsIN10Vq4b5SD+5p6Jal\nFXe8y/2wYP3WYnN5XDbqH6ylwJydEvCVPWoF8PyvOZhEBsGUE7CPSvdZEu8WfXID\nHxJ5E9l/AgMBAAECggEABebKYk7oBSa4ATkawYNhboNKbLfBJmn5Ee3jneMa3Fxt\nErxCdWS/fVwb9yL4eSLwl/L79v+3mhc6ALsjhAk9VwdvXsEVmmheMUjjPthak2O1\nRe2/kRGbNokH4NdkFVMJMHrNYoPIWBdwotf88a7qBzhYUwv2h900Mrmm6OZc3OxT\nmywfanhOldCNPmou/eFX0iSq+hpQWh87yutq0n/jVgq2ABfniGgXUkwCSQF+6dlj\nkod8lk0e8NifNDzkxQO6wbbsCSgH8eO5bc3L7+9C7tQ4KutsjnHOKhX6iUxa31kT\ngYF9XC0LtpqlONuoso7N5fTmyGBdfyda4rYTxvZDCQKBgQDeDBLU4EWWt4RY6JBK\n1v2knn8V+Xk/YagFpkUvTZRn+kSyXBagyPvLH7BPiDUVSb8sw+stjoZm4rmRZSiF\ncGgZX8QNlcZl0ErhyCC9wBcCNrg6+udP+M9r6PaoD1+B8qfuzxBeWj0ianTZ8IAp\nEGfAroZM15lWzzcaxvHJ1t3icwKBgQDNlRuPSbG7HGgyHLTwKgrkUTswIteTKfLV\nBC+R9ND7WfCnwDZ5J6DNAR0WOboe3klY5jF6s+UIMOKn48cOAVgQ2EjMstZT2frK\nwPT+PQIRxYhN4F5IsjJQCJQ7FUVZBNUhVitKgBpQGcOzpPputRDLyj+uP/PisSmJ\nn+nzaehNxQKBgHMik4kqGStDUS7AuED2JWL8hC0ixInm2zbCtlEGyxL3JDPPqDQK\nwvTaI5O5rryxFp3hoMpogqxKl6oaZ955IKE3lPLuXIdib9GO8dsyBTwyn2iFvPcs\nrnDnxS3zerRo3EbpuzURWW3FAX4YRHwGc6XnWN/zUyE+JPaPfcQI09idAoGAYVJy\nPo4DjnGvPfHrEjrE9zshSvNjnG5iX8dggbck66izTaan4wkIjaQ2Udw4KP7QOD6Z\nM95P0WXbFuG0zQOD3k2VgRo0bnOlzzAzitv0y9b4ZO2PlNiPCuZUzfeO4cpw3xw8\n2EL2se7Qf43dZGVhMyhmpyXtXebCpD1I8ouzhoUCgYAlJio/8buRqQZm6tYLzma5\npOnj5nA52YIylk4qUkzQSxGn+LzkwAJe7WLagtsO77HoQf0da05s3nV54qfbMMEr\nT/CqnN7LZGQ1gy8/qfN9QPsXH2gIDhYJ0jnAPMbpkTS2TuSrtxzhtCXtt9U80iyL\nMYd8CehNQ1BcNMUg6f+NSw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pizzatime@pizza-time-370715.iam.gserviceaccount.com",
+  "client_id": "103960166113098186308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pizzatime%40pizza-time-370715.iam.gserviceaccount.com"
+}
